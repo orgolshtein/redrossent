@@ -8,6 +8,8 @@ const { PORT, HOST } = process.env;
 
 const app = express();
 
+app.use(cors());
+
 app.use("/unagibet", express.static("unagibet-assets"));
 
 app.use(express.json());
@@ -15,8 +17,6 @@ app.use(express.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
 app.use(bodyParser.json());
-
-app.use(cors());
 
 app.use(morgan("dev"));
 
