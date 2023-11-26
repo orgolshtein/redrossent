@@ -10,7 +10,7 @@ const app = express();
 
 app.use(cors());
 
-app.use("/unagibet", express.static("unagibet-assets"));
+app.use("/unagibet", express.static("data"));
 
 app.use(express.json());
 

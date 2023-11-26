@@ -1,0 +1,227 @@
+[
+    {
+        "id": 1,
+        "title": "Blue Wizard",
+        "descrition": "Play Blue Wizard on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/bluewizard375x375.png",
+        "thumbwide": "/src/assets/gamethumbs/bluewizard375x180.png",
+        "new": false,
+        "type": "slot"
+    },
+    {
+        "id": 2,
+        "title": "Silver Bullet",
+        "descrition": "Play Silver Bullet on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/silverbullet375x375.jpg",
+        "thumbwide": "/src/assets/gamethumbs/silverbullet375x180.svg",
+        "new": false,
+        "type": "slot"
+    },
+    {
+        "id": 3,
+        "title": "Green Wizard",
+        "descrition": "Play Green Wizard on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/greenwizard375x375.jpg",
+        "thumbwide": "/src/assets/gamethumbs/greenwizard375x180.svg",
+        "new": true,
+        "type": "slot"
+    },
+    {
+        "id": 4,
+        "title": "Premium European Roulette",
+        "descrition": "Play Premium European Roulette on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/premiumeuropeanroulette375x375.png",
+        "thumbwide": "/src/assets/gamethumbs/premiumeuropeanroulette375x180.png",
+        "new": false,
+        "type": "table"
+    },
+    {
+        "id": 5,
+        "title": "Mega Fire Blaze Roulette",
+        "descrition": "Play Mega Fire Blaze Roulette on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/megafireblazeroulette375x375.png",
+        "thumbwide": "/src/assets/gamethumbs/megafireblazeroulette375x180.png",
+        "new": false,
+        "type": "table"
+    },
+    {
+        "id": 6,
+        "title": "Jackpot Giant",
+        "descrition": "Play Jackpot Giant on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/jackpotgiant375x375.jpg",
+        "thumbwide": "/src/assets/gamethumbs/jackpotgiant375x180.jpg",
+        "new": false,
+        "type": "slot"
+    },
+    {
+        "id": 7,
+        "title": "Dragon Jackpot Roulette",
+        "descrition": "Play Dragon Jackpot Roulette on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/dragonjackpotroulette375x375.jpg",
+        "thumbwide": "/src/assets/gamethumbs/dragonjackpotroulette375x180.jpg",
+        "new": true,
+        "type": "table"
+    },
+    {
+        "id": 8,
+        "title": "Red Wizard",
+        "descrition": "Play Red Wizard on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/redwizard375x375.svg",
+        "thumbwide": "/src/assets/gamethumbs/redwizard375x180.svg",
+        "new": false,
+        "type": "slot"
+    },
+    {
+        "id": 9,
+        "title": "Jungle Giants",
+        "descrition": "Play Jungle Giants on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/junglegiants375x375.svg",
+        "thumbwide": "/src/assets/gamethumbs/junglegiants375x180.svg",
+        "new": false,
+        "type": "slot"
+    },
+    {
+        "id": 10,
+        "title": "Joker Rush Power Play",
+        "descrition": "Play Joker Rush Power Play on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/jokerrushpp375x375.svg",
+        "thumbwide": "/src/assets/gamethumbs/jokerrushpp375x180.svg",
+        "new": true,
+        "type": "slot"
+    },
+    {
+        "id": 11,
+        "title": "Premium Blackjack",
+        "descrition": "Play Premium Blackjack on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/premiumblackjack375x375.png",
+        "thumbwide": "/src/assets/gamethumbs/premiumblackjack375x180.png",
+        "new": false,
+        "type": "table"
+    },
+    {
+        "id": 12,
+        "title": "Age Of The Gods",
+        "descrition": "Play Age Of The Gods on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/aogs375x375.jpg",
+        "thumbwide": "/src/assets/gamethumbs/aogs375x180.jpg",
+        "new": false,
+        "type": "slot"
+    },
+    {
+        "id": 13,
+        "title": "Buffalo Blitz",
+        "descrition": "Play Buffalo Blitz on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/buffaloblitz375x375.svg",
+        "thumbwide": "/src/assets/gamethumbs/buffaloblitz375x180.svg",
+        "new": false,
+        "type": "slot"
+    },
+    {
+        "id": 14,
+        "title": "Gladiator Jackpot",
+        "descrition": "Play Gladiator Jackpot on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/glrj375x375.jpg",
+        "thumbwide": "/src/assets/gamethumbs/glrj375x180.jpg",
+        "new": false,
+        "type": "slot"
+    },
+    {
+        "id": 15,
+        "title": "Blackjack Surrender",
+        "descrition": "Play Blackjack Surrender on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/blackjacksurrender375x375.jpg",
+        "thumbwide": "/src/assets/gamethumbs/blackjacksurrender375x180.jpg",
+        "new": true,
+        "type": "table"
+    },
+    {
+        "id": 16,
+        "title": "Epic Ape",
+        "descrition": "Play Epic Ape on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/epicape375x375.jpg",
+        "thumbwide": "/src/assets/gamethumbs/epicape375x180.jpg",
+        "new": false,
+        "type": "slot"
+    },
+    {
+        "id": 17,
+        "title": "Diamond Bet Roulette",
+        "descrition": "Play Diamond Bet Roulette on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/diamondbetroulette375x375.png",
+        "thumbwide": "/src/assets/gamethumbs/diamondbetroulette375x180.png",
+        "new": false,
+        "type": "table"
+    },
+    {
+        "id": 18,
+        "title": "Age Of The Gods: Helios",
+        "descrition": "Play Age Of The Gods: Helios on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/aogshelios375x375.svg",
+        "thumbwide": "/src/assets/gamethumbs/aogshelios375x180.svg",
+        "new": true,
+        "type": "slot"
+    },
+    {
+        "id": 19,
+        "title": "The Walking Dead Online Slot",
+        "descrition": "Play The Walking Dead Online Slot on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/thewalkingdead375x375.png",
+        "thumbwide": "/src/assets/gamethumbs/thewalkingdead375x180.png",
+        "new": false,
+        "type": "slot"
+    },
+    {
+        "id": 20,
+        "title": "White King",
+        "descrition": "Play White King on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/whiteking375x375.svg",
+        "thumbwide": "/src/assets/gamethumbs/whiteking375x180.svg",
+        "new": false,
+        "type": "slot"
+    },
+    {
+        "id": 21,
+        "title": "Casino Hold'em",
+        "descrition": "Play Casino Hold'em on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/casinoholdem375x375.jpg",
+        "thumbwide": "/src/assets/gamethumbs/casinoholdem375x180.jpg",
+        "new": false,
+        "type": "table"
+    },
+    {
+        "id": 22,
+        "title": "Buffalo Blitz II",
+        "descrition": "Play Buffalo Blitz II on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/buffaloblitz2375x375.svg",
+        "thumbwide": "/src/assets/gamethumbs/buffaloblitz2375x180.svg",
+        "new": true,
+        "type": "slot"
+    },
+    {
+        "id": 23,
+        "title": "God Of Storms",
+        "descrition": "Play God Of Storms on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/aogsgodofstorms375x375.jpg",
+        "thumbwide": "/src/assets/gamethumbs/aogsgodofstorms375x180.jpg",
+        "new": false,
+        "type": "slot"
+    },
+    {
+        "id": 24,
+        "title": "Honey Gems",
+        "descrition": "Play Honey Gems on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/honeygems375x375.svg",
+        "thumbwide": "/src/assets/gamethumbs/honeygems375x180.svg",
+        "new": true,
+        "type": "slot"
+    },
+    {
+        "id": 25,
+        "title": "Roulette Deluxe",
+        "descrition": "Play Roulette Deluxe on UnagiBet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor risus, blandit eget leo et, luctus vehicula lacus. Donec ut pharetra justo. Donec mollis convallis eros, a tristique nibh dictum sodales. Maecenas ut turpis egestas, pulvinar urna nec, aliquet nulla. Nullam eu consectetur nunc.",
+        "thumb": "/src/assets/gamethumbs/roulettedeluxe375x375.jpg",
+        "thumbwide": "/src/assets/gamethumbs/roulettedeluxe375x180.jpg",
+        "new": false,
+        "type": "table"
+    }
+]
