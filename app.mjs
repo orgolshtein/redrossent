@@ -20,6 +20,10 @@ app.use(bodyParser.json());
 
 app.use(morgan("dev"));
 
+app.use("/", (_,res)=>{
+    res.status(200).send(`<h1>Red Ross Entertainment Server</h1>`);
+});
+
 app.use("*", (_,res)=>{
     log.red("No path found. 404 status sent");
     res.status(404).send("Path not found");
