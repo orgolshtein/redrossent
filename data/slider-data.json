@@ -2,19 +2,22 @@
     {
         "id": 1,
         "title": "Daily LeaderBoards",
-        "srcbig": "/src/assets/slides/DailyLeaderboard.jpg",
-        "srcsmall": "/src/assets/slides/DailyLeaderboardMob.jpg"
+        "srcbig": "src/assets/slides/DailyLeaderboard.jpg",
+        "srcsmall": "src/assets/slides/DailyLeaderboardMob.jpg",
+        "order": 3
     },
     {
         "id": 2,
         "title": "God Of Storms",
-        "srcbig": "/src/assets/slides/GodOfStorms.jpg",
-        "srcsmall": "/src/assets/slides/GodOfStormsMob.jpg"
+        "srcbig": "src/assets/slides/GodOfStorms.jpg",
+        "srcsmall": "src/assets/slides/GodOfStormsMob.jpg",
+        "order": 1
     },
     {
         "id": 3,
         "title": "Green Wizard",
-        "srcbig": "/src/assets/slides/GreenWizard.jpg",
-        "srcsmall": "/src/assets/slides/GreenWizardMob.jpg"
+        "srcbig": "src/assets/slides/GreenWizard.jpg",
+        "srcsmall": "src/assets/slides/GreenWizardMob.jpg",
+        "order": 2
     }
 ]
