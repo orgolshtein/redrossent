@@ -16,10 +16,9 @@ router.get("/get-slider-data", async (_, res)=> {
 });
 
 router.post("/update-slider-data", async (req, res)=> {
-    const data = await crud_controller.updateData(req.body.slider_data, "slider-data");
     await crud_controller.updateData(req.body.slider_data, "slider-data");
-    data?
-    res.status(200).send("slides updated"):
+    req.body.slider_data?
+    res.status(200).send("slider updated"):
     res.status(500).send("something went wrong")
 });
 
@@ -29,7 +28,6 @@ router.get("/get-games-data", async (_, res)=> {
 });
 
 router.post("/update-games-data", async (req, res)=> {
-    log.red("Games Data is "+req.body.games_data)
     await crud_controller.updateData(req.body.games_data, "games-data");
     req.body.games_data?
     res.status(200).send("games updated"):

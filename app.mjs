@@ -5,6 +5,7 @@ import bodyParser from "body-parser";
 import log from "@ajar/marker";
 
 import crudRouter from "./routes/crud.router.mjs";
+import adminRouter from "./routes/admin.router.mjs";
 
 const { PORT, HOST } = process.env;
 
@@ -25,6 +26,8 @@ app.use(bodyParser.json());
 app.use(morgan("dev"));
 
 app.use("/crud", crudRouter);
+
+app.use("/admin", adminRouter);
 
 app.use("/", (_,res)=>{
     res.status(200).send(`<h1>Red Ross Entertainment Server</h1>`);
